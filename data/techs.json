@@ -8,9 +8,9 @@
         },
         {
             "id": 2,
-            "name": "AngularJS",
-            "image": "angularjs.png",
-            "link": "https://angularjs.org/"
+            "name": "React",
+            "image": "reactjs.png",
+            "link": "https://reactjs.org/"
         },
         {
             "id": 3,
@@ -29,12 +29,6 @@
             "name": "Github",
             "image": "github.png",
             "link": "https://github.com/"
-        },
-        {
-            "id": 6,
-            "name": "Grunt",
-            "image": "grunt.png",
-            "link": "https://gruntjs.com/"
         },
         {
             "id": 7,
@@ -61,34 +55,16 @@
             "link": "https://getbootstrap.com/"
         },
         {
-            "id": 11,
-            "name": "Browserify",
-            "image": "browserify.png",
-            "link": "http://browserify.org/"
-        },
-        {
             "id": 12,
             "name": "Firebase",
             "image": "firebase.png",
             "link": "https://firebase.google.com"
         },
         {
-            "id": 13,
-            "name": "Materialize",
-            "image": "materialize.png",
-            "link": "http://materializecss.com/"
-        },
-        {
             "id": 14,
             "name": "NPM",
             "image": "npm.png",
             "link": "https://www.npmjs.com/"
-        },
-        {
-            "id": 15,
-            "name": "SQLite3",
-            "image": "sqlite.png",
-            "link": "https://www.sqlite.org/"
         },
         {
             "id": 16,
@@ -134,9 +110,10 @@
         },
         {
             "id": 23,
-            "name": "UglifyJs",
-            "image": "uglify.png",
-            "link": "https://www.npmjs.com/package/uglifyjs"
+            "name": "Postman",
+            "image": "postman.png",
+            "link": "https://www.postman.com/"
         }
+
     ]
 }
