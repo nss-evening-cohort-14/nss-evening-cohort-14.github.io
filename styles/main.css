@@ -32,12 +32,12 @@ blockquote{
 
 #cohort14{
     display: inline-block;
-    color: #238193;
+    color: #56a4bb;
 }
 
 #jumbheader{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
-    background-color: #238193!important;
+    background-color: #56a4bb!important;
     color: lightgray;
 
 }
@@ -65,8 +65,7 @@ blockquote{
    }
 .jumbotron.jumbotron-fluid img{
     background: none;
-    width:100%;
-    margin-top: -80px;
+    /* height:40%; */
    }
 
 main {
@@ -88,8 +87,7 @@ main {
 }
 
 .col-md-3.cohortMems{
-    border-radius:5px;
-    box-shadow: 2px 2px 2px lightgray;
+    border: 1px solid black;
     margin: 20px;
     margin-bottom: 25px;
     background: white;
@@ -123,8 +121,9 @@ main {
   }
 
 .card-img-top{
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    width: 100%;
+    height: 20rem;
+    object-fit: cover;
   }
 
 .col,
@@ -146,22 +145,20 @@ main {
   }
 
   .contactIcons{
-      color: #238193;
+      color: #56a4bb;
   }
   .contactIcons:hover{
       transform: scale(1.2);
   }
 
   .modal-header{
-    background-color: lightgray!important;
-    color: #238193;
+    background-color: white!important;
+    color: #56a4bb;
   }
 
   .modal-body img{
     width: 50%;
     height: 50%;
-    box-shadow: 3px 3px 5px #cacaca;
-    border-radius: 10px;
   }
 
   .backButton{
@@ -171,7 +168,7 @@ main {
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: #238193!important;
+    background-color: #56a4bb!important;
     color: white;
 }
 
@@ -180,20 +177,20 @@ main {
 }
 
 #demo-date a {
-    color: #238193!important;
+    color: #56a4bb!important;
 }
 
 button{
     cursor: pointer;
 }
 .btn-outline-primary{
-    color: #238193!important;
-    border-color: #238193!important;
+    color: #56a4bb!important;
+    border-color: #56a4bb!important;
 }
 
 .btn-outline-primary:hover{
     color: white!important;
-    background-color: #238193!important;
+    background-color: #56a4bb!important;
 }
 
 /* adjusts size of contact icons depending on size of card */
