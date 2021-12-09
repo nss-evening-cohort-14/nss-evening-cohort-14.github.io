@@ -5,9 +5,8 @@ p {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
     background-size: 100%;
-    background-color: black;
+    background-color: white;
 }
 
 blockquote{
@@ -31,7 +30,7 @@ blockquote{
   margin-right: 2em;
 }
 
-#cohort22{
+#cohort14{
     display: inline-block;
     color: #238193;
 }
@@ -44,9 +43,9 @@ blockquote{
 }
 .header-text{
     margin: 0 auto;
-    padding-top: 10px;
+    padding-top: 20px;
     font-weight: bold;
-    height: 50px;
+    height: 60px;
     color: white;
 
 }
@@ -89,10 +88,9 @@ main {
 }
 
 .col-md-3.cohortMems{
-    border: 1px solid lightgray;
-    border-radius:10px;
+    border-radius:5px;
     box-shadow: 2px 2px 2px lightgray;
-    margin: 10px;
+    margin: 20px;
     margin-bottom: 25px;
     background: white;
 }
